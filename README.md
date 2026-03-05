@@ -1,9 +1,9 @@
-<<<<<<< copilot/create-research-platform-structure
+
 # OceanMech-Agent
 
 **A production-ready modular research platform integrating Mechanical Engineering models, Oceanographic data systems, and Agentic AI for the autonomous design, optimization, simulation, and operation of marine systems.**
 
----
+
 
 ## Table of Contents
 
