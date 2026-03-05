@@ -8,7 +8,7 @@ from .mechanical import (
 )
 from .ocean import OceanEnvironment, OceanState, JONSWAPSpectrum, LinearWaveKinematics
 
-__all__ = [
+__all__ = [ 
     "AUV", "AUVGeometry", "AUVPropulsion",
     "WaveEnergyConverter", "WECGeometry", "PTOParameters",
     "OffshorePlatform", "PlatformGeometry",
