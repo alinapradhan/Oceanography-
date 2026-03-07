@@ -6,7 +6,7 @@
 ## Overview
  
 OceanMech-Agent is a research platform where **AI agents autonomously design, optimize, simulate, and operate marine mechanical systems**. It is built around four marine engineering domains:
-
+ 
 | System | Description | 
 |---|---| 
 | **Autonomous Underwater Vehicles (AUVs)** | Hydrodynamic design, propulsion sizing, range estimation, and transit simulation |
