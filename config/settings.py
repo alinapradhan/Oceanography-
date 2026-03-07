@@ -1,5 +1,5 @@
 """Global configuration and default settings for OceanMech-Agent."""
-
+ 
 from dataclasses import dataclass, field
 
 
